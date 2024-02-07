@@ -1,0 +1,110 @@
+body{
+    background-color: rgb(243, 217, 217);
+}
+.container{
+    width: 800px;
+    height: 800px;
+    background-color: #fff;
+    box-shadow: 10px 10px 20px black;
+    margin: auto;
+    padding: 20px;
+
+
+
+
+}
+h1{
+
+
+    text-align: center;
+    margin-bottom: 10px;
+
+
+}
+.left-div{
+    width: 50%;
+    float: left;
+
+
+}
+input{
+    width: 80%;
+    padding: 10px;
+    box-shadow: 2px 2px black;
+    border: 1px solid green;
+    margin-left: 20px;
+    margin-top: 5px;
+    border-radius: 5px;
+
+
+   
+
+
+}
+span{
+  margin-left: 20px;
+  font-size: 1.2rem;
+  font-weight: bold;
+
+
+}
+.btn{
+    text-align: center;
+}
+#submit{
+    background-color: red;
+    color: #fff;
+    margin-top: 20px;
+    padding: 10px;
+    width: 40%;
+    text-align: center;
+    font-size: 1.3rem;
+    cursor: pointer;
+    box-shadow: 3px 4px 10px black;
+    border-radius: 10px;
+
+
+}
+#submit:hover{
+    background-color: rgb(252, 232, 232);
+    color: #000000;
+
+
+
+
+}
+.center{
+
+
+    text-align: center;
+    margin-top: 25px;
+}
+#log{
+    font-size: 1.4rem;
+    font-weight: bold;
+   
+   
+
+
+}
+
+
+.login-container{
+height: 450px;
+width: 550px;
+background-color: #fff;
+margin: auto;
+margin-top: 100px;
+box-shadow: 10px 10px 15px black;
+
+
+
+}
+/* h4{
+
+    color: rgb(233, 17, 17);
+    font-size: 1.6rem;
+    border: 1px solid red;
+    text-align: center;
+    padding: 6px;
+} */
